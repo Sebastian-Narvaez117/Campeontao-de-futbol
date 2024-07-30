@@ -12,7 +12,8 @@ Se decidio seguir el siguiente diagrama que logra cumplir con todos los requisit
 
 A continuacion se presenta el diagrama:
 
-![image](https://github.com/user-attachments/assets/2962e321-d8a3-480d-8310-efb8ebfefc95)
+![image](https://github.com/user-attachments/assets/7639959d-4dbd-4d14-b130-b5bbb400488e)
+
 
 Dicha implemenatcion se realizo en el lenguaje de java, este diagrama es de mi propiedad
 
