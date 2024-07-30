@@ -12,7 +12,7 @@ Se decidio seguir el siguiente diagrama que logra cumplir con todos los requisit
 
 A continuacion se presenta el diagrama:
 
-![image](https://github.com/user-attachments/assets/c411689f-be2f-4a0a-9797-b98e3716ef44)
+![image](https://github.com/user-attachments/assets/624329f8-4460-4408-98d7-e459582a9556)
 
 
 
