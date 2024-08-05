@@ -19,3 +19,6 @@ A continuacion se presenta el diagrama:
 
 Dicha implemenatcion se realizo en el lenguaje de java, este diagrama es de mi propiedad
 
+Diagrama actualizado:
+
+![image](https://github.com/user-attachments/assets/3855aded-04d0-4e72-838d-c08d5961dd11)
